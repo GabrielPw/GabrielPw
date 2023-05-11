@@ -1,5 +1,6 @@
 ### Olá, sou o Gabriel Xavier 👋
 
+Hello, Thank you for visiting my Github Profile!
 ![Gabriel Xavier GitHub stats](https://github-readme-stats.vercel.app/api?username=GabrielPw&show_icons=true&theme=radical)
 
 ## Tecnologias que uso no meu dia
@@ -15,3 +16,9 @@ FrontEnd<br>
 <img src="https://img.shields.io/badge/JavaScript-F7DF1E.svg?style=for-the-badge&logo=JavaScript&logoColor=black">
 <img src="https://img.shields.io/badge/MySQL-4479A1.svg?style=for-the-badge&logo=MySQL&logoColor=white">
 <img src="https://img.shields.io/badge/Render-46E3B7.svg?style=for-the-badge&logo=Render&logoColor=white">
+
+## Contatos
+<div>
+  <a href="https://www.linkedin.com/in/gabriel-xavier-a5b762242" target="_blank"><img src="https://img.shields.io/badge/-LinkedIn-%230077B5?style=for-the-badge&logo=linkedin&logoColor=white" target="_blank"></a>
+  <a href = "mailto:gxaavier352@gmail.com"><img src="https://img.shields.io/badge/-Gmail-%23333?style=for-the-badge&logo=gmail&logoColor=white" target="_blank"></a>
+</div>
