@@ -1,7 +1,8 @@
 ### Olá, sou o Gabriel Xavier 👋
 
 Hello, Thank you for visiting my Github Profile!<br>
-![Gabriel Xavier GitHub stats](https://github-readme-stats.vercel.app/api?username=GabrielPw&show_icons=true&theme=radical)
+
+<img height="180em" src="https://github-readme-stats.vercel.app/api?username=GabrielPw&show_icons=true&theme=codeSTACKr&include_all_commits=true&count_private=true"/>
 
 ## Tecnologias que uso no meu dia
 
