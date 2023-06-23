@@ -2,7 +2,7 @@
 
 Hello, Thank you for visiting my Github Profile!<br>
 
-<img height="180em" src="https://github-readme-stats.vercel.app/api?username=GabrielPw&show_icons=true&theme=codeSTACKr&include_all_commits=true&count_private=true"/>
+![Anurag's github stats](https://github-readme-stats.vercel.app/api?username=GabrielPw&show_icons=true&theme=transparent)
 
 ## Tecnologias que uso no meu dia
 
