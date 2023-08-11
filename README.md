@@ -1,4 +1,4 @@
-Olá, sou o Gabriel Xavier, Programador Backend, atualmente focado no estudo da linguagem Java. Formado em Análise e Desenvolvimento de Sistema pela ETEC Horácio Augusto da Silveira, procuro sempre estudar e melhorar minhas habilidades/conhecimentos como programador. 
+Olá, sou o Gabriel Xavier, Programador Backend, atualmente focado no estudo da linguagem Java e PHP. Formado em Análise e Desenvolvimento de Sistema pela ETEC Horácio Augusto da Silveira, procuro sempre estudar e melhorar minhas habilidades/conhecimentos como programador. 
 
 Hello, Thank you for visiting my Github Profile!<br>
 
