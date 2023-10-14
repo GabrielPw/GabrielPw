@@ -1,4 +1,4 @@
-Olá, sou o Gabriel Xavier, Programador Backend, atualmente focado no estudo da linguagem Java e PHP. Formado em Análise e Desenvolvimento de Sistema pela ETEC Horácio Augusto da Silveira, procuro sempre estudar e melhorar minhas habilidades/conhecimentos como programador. 
+Olá, sou o Gabriel Xavier, Programador Backend, atualmente focado no estudo da linguagem Java e Kotlin e PHP. Formado em Análise e Desenvolvimento de Sistema pela ETEC Horácio Augusto da Silveira, procuro sempre estudar e melhorar minhas habilidades/conhecimentos como programador. Meus projetos são majoritariamente Web (com java/Spring ou PHP) e Mobile(Java, Kotlin e Jetpack Compose com Android Studio).
 
 Hello, Thank you for visiting my Github Profile!<br>
 
@@ -14,7 +14,9 @@ FrontEnd<br>
 
 <br>Backend<br>
 <img src="https://img.shields.io/badge/Java-ED8B00?style=for-the-badge&logo=openjdk&logoColor=white">
+<img src="https://img.shields.io/badge/kotlin-%237F52FF.svg?style=for-the-badge&logo=kotlin&logoColor=white">
 <img src="https://img.shields.io/badge/Spring%20Boot-6DB33F.svg?style=for-the-badge&logo=Spring-Boot&logoColor=white">
+<img src="https://img.shields.io/badge/Android%20Studio-3DDC84.svg?style=for-the-badge&logo=android-studio&logoColor=white">
 <img src="https://img.shields.io/badge/JavaScript-F7DF1E.svg?style=for-the-badge&logo=JavaScript&logoColor=black">
 <img src="https://img.shields.io/badge/MySQL-4479A1.svg?style=for-the-badge&logo=MySQL&logoColor=white">
 <img src="https://img.shields.io/badge/PHP-777BB4?style=for-the-badge&logo=php&logoColor=white">
