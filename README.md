@@ -1,6 +1,6 @@
 Olá, sou o Gabriel Xavier, Programador Backend, atualmente focado no estudo da linguagem Java, Kotlin e PHP. Formado em Análise e Desenvolvimento de Sistema pela ETEC Horácio Augusto da Silveira, procuro sempre estudar e melhorar minhas habilidades/conhecimentos como programador. Meus projetos são majoritariamente Web (com java/Spring ou PHP) e Mobile(Java, Kotlin e Jetpack Compose com Android Studio).
 
-Hello, Thank you for visiting my Github Profile!<br>
+Thank you for visiting my Github Profile!<br>
 
 ![Anurag's github stats](https://github-readme-stats.vercel.app/api?username=GabrielPw&show_icons=true&theme=transparent)
 
